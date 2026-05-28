@@ -599,6 +599,6 @@ confirm
 show date
 ```
 
-##Настройка сетевого времени
+## Настройка сетевого времени
 
 <img width="532" height="766" alt="image" src="https://github.com/user-attachments/assets/0b9fe65d-62fb-41e7-8cc7-e5a949ed6754" />

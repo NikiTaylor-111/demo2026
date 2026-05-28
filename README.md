@@ -21,10 +21,9 @@ configure terminal;
 hostname <hostname>;
 ip domain-name <domain-name>;
 write memory.
-
+```
 <img width="411" height="149" alt="image" src="https://github.com/user-attachments/assets/63113518-60f6-4177-981a-884228342c6e" />
 
-```
 ### 1.2. На всех устройствах необходимо сконфигурировать IPv4
 # Распределение IP адресов
  

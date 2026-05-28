@@ -37,6 +37,17 @@ hostname 123
 | HQ-SRV         | ens192    | 192.168.0.2 | 255.255.255.192 | 192.168.0.1 |      
 | HQ-CLI         | ens192    | DHCP        | 255.255.255.240 | 192.168.0.65|      
 | BR-SRV         | ens192    | 192.168.1.2 | 255.255.255.224 | 192.168.1.1 |      
+
+
+|Устройство|  |Запись                | |Тип   |
+|HQ-RTR    |  |hq-rtr.au-team.irpo   | |A, PTR|
+|BR-RTR    |  |br-rtr.au-team.irpo   | |A     |     
+|HQ-SRV    |  |hq-srv.au-team.irpo   | |A, PTR|
+|HQ-CLI    |  |hq-cli.au-team.irpo   | |A, PTR|
+|BR-SRV    |  |br-srv.au-team.irpo   | |A     |
+|HQ-RTR    |  |moodle.au-team.irpo   | |CNAME |
+|HQ-RTR    |  |wiki.au-team.irpo     | |CNAME |
+
 # Настраиваем IP адреса
 
 ## ISP
